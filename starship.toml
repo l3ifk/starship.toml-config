@@ -97,4 +97,4 @@ utc_time_offset = "1"
 [username]
 style_user = "bold #ea00d9"
 show_always = true
-format = "user: [$user]($style)"
+format = "($style)[](white) : [$user]($style) "
